@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "MuscleHunter2",
+    "slug": "MuscleHunter2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logogreen.png",
+    "splash": {
+      "image": "./assets/darkgreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logogreen.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/logogreen.png"
+    },
+    "description": "Welcome to Muscle Hunter. An application made to make people aware of the benefits of resistance training regarding cardiovascular diseases and diabetes especially. The app is supposed to a solution. A cheap alternative to the fitness centers, and a substitution to the casual run a lot of people has as their only active habits. We hope that you like the app but we are open for feedback so feel free to reach out."
+  }
+}
